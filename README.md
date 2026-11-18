@@ -12,7 +12,7 @@
 
 Software engineer and QA tester. I build web and mobile products and test them properly before they ship. I start with the problem and the person who will use it, then I build it end to end, from research and design to code, tests and deployment.
 
-Open to software engineering and QA roles, and to freelance projects.
+Open to software engineering and QA roles.
 
 ---
 
@@ -37,15 +37,6 @@ Open to software engineering and QA roles, and to freelance projects.
 | **Bob Check** | Helps Kenyan students track spending and plan money until the next payment | React, FastAPI, PostgreSQL | [Live](https://campusbudgettracker.netlify.app/) · [Code](https://github.com/GloryMungathia/campus-budget-tracker) |
 | **SHERÉ Moments** | Digital invitations and celebration messages with accounts and a dashboard | React, TypeScript, FastAPI, PostgreSQL | [Live](https://shere-celebretion-moments.netlify.app/) · [Code](https://github.com/GloryMungathia/shere-celebration-moments) |
 | **Portfolio** | My personal website with projects, CV and a contact form | Next.js, Tailwind CSS | [Live](https://sherisportfolio.netlify.app) · [Code](https://github.com/GloryMungathia/sheris-portfolio) |
-
----
-
-## 🏆 Tech Wins
-
-- Wrote 63 backend tests and 15 browser tests for SHERÉ Moments
-- Set up GitHub Actions to run the tests automatically on every change
-- Built Bob Check, a budget app with transactions, budgets and spending insights
-- Launched a portfolio with a contact form that sends messages straight to my email
 
 ---
 
@@ -97,7 +88,7 @@ Open to software engineering and QA roles, and to freelance projects.
 
 | Activity | Streak | Top languages |
 | --- | --- | --- |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GloryMungathia&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&show=reviews,prs_merged) | ![Streak](https://streak-stats.demolab.com?user=GloryMungathia&theme=tokyonight&hide_border=true) | ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GloryMungathia&layout=compact&theme=tokyonight&hide_border=true) |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GloryMungathia&show_icons=true&theme=tokyonight&hide_border=true&show=reviews,prs_merged) | ![Streak](https://streak-stats.demolab.com?user=GloryMungathia&theme=tokyonight&hide_border=true) | ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GloryMungathia&layout=compact&theme=tokyonight&hide_border=true) |
 
 </div>
 
