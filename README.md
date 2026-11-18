@@ -25,8 +25,8 @@ Open to software engineering and QA roles.
 
 ## 🔭 Recently Built
 
-- 🛠️ **[Bob Check](https://campusbudgettracker.netlify.app/)**, a budget app for Kenyan students
-- 🎉 **[SHERÉ Moments](https://shere-celebretion-moments.netlify.app/)**, a digital invitation platform
+- 🛠️ **[Bob Check](https://campusbudgettracker.netlify.app/)**: a budget app for Kenyan students, with transactions, budgets and spending insights
+- 🎉 **[SHERÉ Moments](https://shere-celebretion-moments.netlify.app/)**: a digital invitation platform, with accounts, designs and celebration messages
 
 ---
 
@@ -95,4 +95,4 @@ If you're hiring, or want to build something together, reach out through any of 
 
 - 🌐 Portfolio: [sherisportfolio.netlify.app](https://sherisportfolio.netlify.app)
 - 💻 GitHub: [GloryMungathia](https://github.com/GloryMungathia)
-- 
+- 📧 Email: [gloryymungathia@gmail.com](mailto:gloryymungathia@gmail.com)
