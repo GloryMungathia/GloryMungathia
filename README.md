@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=7C3AED&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Glory+Mung%27athia;Software+Engineer+%7C+QA+Tester;I+build+full-stack+apps+and+test+them+properly;Based+in+Nairobi%2C+Kenya)
+![Typing animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=7C3AED&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Glory+Mung%27athia;Software+Engineer+%7C+QA+Tester;I+build+full-stack+apps+and+test+them+properly)
 
 <p><em>Anyone can build tech that matters. If they did it, I can do it too and keep making it better.</em></p>
 
@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 
-Software engineer and QA tester in Nairobi. I build web and mobile products and test them properly before they ship. I start with the problem and the person who will use it, then I build it end to end, from research and design to code, tests and deployment.
+Software engineer and QA tester. I build web and mobile products and test them properly before they ship. I start with the problem and the person who will use it, then I build it end to end, from research and design to code, tests and deployment.
 
 Open to software engineering and QA roles, and to freelance projects.
 
@@ -95,9 +95,9 @@ Open to software engineering and QA roles, and to freelance projects.
 
 <div align="center">
 
-| Activity | Top languages |
-| --- | --- |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GloryMungathia&show_icons=true&theme=tokyonight&hide_border=true) | ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GloryMungathia&layout=compact&theme=tokyonight&hide_border=true) |
+| Activity | Streak | Top languages |
+| --- | --- | --- |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GloryMungathia&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&show=reviews,prs_merged) | ![Streak](https://streak-stats.demolab.com?user=GloryMungathia&theme=tokyonight&hide_border=true) | ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GloryMungathia&layout=compact&theme=tokyonight&hide_border=true) |
 
 </div>
 
