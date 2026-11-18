@@ -18,8 +18,8 @@ Open to software engineering and QA roles.
 
 ## 🔗 Socials
 
-- 🌐 [Portfolio](https://sherisportfolio.netlify.app)
-- 💻 [GitHub](https://github.com/GloryMungathia)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=netlify&logoColor=white)](https://sherisportfolio.netlify.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GloryMungathia)
 
 ---
 
@@ -77,14 +77,6 @@ Open to software engineering and QA roles.
 
 ---
 
-## 🧪 How I Work
-
-- I test the edge cases that others miss, then write tests so they stay fixed
-- I write clear documentation, so the next person can run the project in minutes
-- I keep designs simple, clean and focused on what the user needs
-
----
-
 ## 📊 GitHub
 
 <div align="center">
@@ -103,3 +95,4 @@ If you're hiring, or want to build something together, reach out through any of 
 
 - 🌐 Portfolio: [sherisportfolio.netlify.app](https://sherisportfolio.netlify.app)
 - 💻 GitHub: [GloryMungathia](https://github.com/GloryMungathia)
+- 
