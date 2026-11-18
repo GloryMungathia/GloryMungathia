@@ -4,6 +4,8 @@
 
 </div>
 
+<p align="center"><em>Anyone can build tech that matters. If they did it, I can do it too and keep making it better.</em></p>
+
 ---
 
 ## 🔭 Recently Built
@@ -50,11 +52,27 @@
 
 ---
 
+## 🏆 Tech Wins
+
+- Wrote 63 backend tests and 15 browser tests for SHERÉ Moments
+- Set up GitHub Actions to run the tests automatically on every change
+- Built Bob Check, a budget app with transactions, budgets and spending insights
+- Launched a portfolio with a contact form that sends messages straight to my email
+
+---
+
 ## 🧪 How I Work
 
 - I test the edge cases that others miss, then write tests so they stay fixed
 - I write clear documentation, so the next person can run the project in minutes
 - I keep designs simple, clean and focused on what the user needs
+
+---
+
+## 🤝 Team Projects
+
+- HUZA
+- Pamodzi
 
 ---
 
@@ -72,6 +90,7 @@
 
 ## 📫 Let's Connect
 
-Looking for an internship, junior role or a project to work on? Send me a message and I'll get back to you by email.
+Looking for an internship, junior role or a project to work on? Reach out through any of these:
 
-- 🌐 [Contact me through my portfolio](https://sherisportfolio.netlify.app)
+- 🌐 Portfolio: [sherisportfolio.netlify.app](https://sherisportfolio.netlify.app)
+- 💻 GitHub: [GloryMungathia](https://github.com/GloryMungathia)
