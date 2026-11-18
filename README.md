@@ -42,8 +42,8 @@ Open to software engineering and QA roles.
 
 ## 🤝 Team Projects
 
-- HUZA
-- Pamodzi
+- **HUZA:** a platform for reusing industrial by-products. I built parts of the backend and frontend screens across the mobile app, dashboard and PWA and tested them. I also reviewed teammates' code.
+- **Pamodzi:** an agricultural platform that connects corporate buyers with smallholder farmers through cooperatives. I reviewed teammates' code and pull requests.
 
 ---
 
