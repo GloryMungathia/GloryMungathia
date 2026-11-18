@@ -2,8 +2,6 @@
 
 ![Typing animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=7C3AED&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Glory+Mung%27athia;Software+Engineer+%7C+QA+Tester;I+build+full-stack+apps+and+test+them+properly)
 
-<p><em>Anyone can build tech that matters. If they did it, I can do it too and keep making it better.</em></p>
-
 </div>
 
 ---
@@ -14,12 +12,14 @@ Software engineer and QA tester. I build web and mobile products and test them p
 
 Open to software engineering and QA roles.
 
+> *Anyone can build tech that matters. If they did it, I can do it too and keep making it better.*
+
 ---
 
 ## 🔗 Socials
 
-![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- 🌐 [Portfolio](https://sherisportfolio.netlify.app)
+- 💻 [GitHub](https://github.com/GloryMungathia)
 
 ---
 
@@ -43,7 +43,7 @@ Open to software engineering and QA roles.
 ## 🤝 Team Projects
 
 - **HUZA:** a platform for reusing industrial by-products. I built parts of the backend and frontend screens across the mobile app, dashboard and PWA and tested them. I also reviewed teammates' code.
-- **Pamodzi:** an agricultural platform that connects corporate buyers with smallholder farmers through cooperatives. I reviewed teammates' code and pull requests.
+- **Pamodzi:** an agricultural platform that connects corporate buyers with smallholder farmers through cooperatives. I built parts of the backend and tested them. I also reviewed teammates' code and pull requests.
 
 ---
 
@@ -53,11 +53,13 @@ Open to software engineering and QA roles.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-**Frontend:**
+**Frontend and mobile:**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 **Backend and data:**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -66,6 +68,7 @@ Open to software engineering and QA roles.
 **Testing:**
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
 **Tools and deployment:**
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
