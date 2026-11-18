@@ -1,60 +1,77 @@
-# Hi, I'm Glory Mung'athia 👋
+<div align="center">
 
-Software engineer and QA tester based in Nairobi, Kenya. I recently completed the software engineering programme at AkiraChix and I enjoy building simple, clean and useful products.
+![Typing animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=7C3AED&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Glory+Mung%27athia;Software+Engineer+%7C+QA+Tester;I+build+full-stack+apps+and+test+them+properly;Based+in+Nairobi%2C+Kenya)
 
-- 🔍 Interested in quality assurance, test automation and product management
-- 🛠️ Building full-stack web apps with React, TypeScript, Python and FastAPI
-- 🇰🇪 Focused on building tools that solve real problems for people in Kenya
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🔭 Currently
 
-| Project | What it does | Built with |
-| --- | --- | --- |
-| [Bob Check](https://campusbudgettracker.netlify.app/) | A budget app that helps Kenyan students track spending and plan their money until the next payment | React, FastAPI, PostgreSQL |
-| [SHERÉ Moments](https://shere-celebretion-moments.netlify.app/) | A digital invitation and celebration platform with accounts, designs and messages | React, TypeScript, FastAPI, PostgreSQL |
-| [Portfolio](https://sherisportfolio.netlify.app) | My personal website with projects, CV and a contact form | Next.js, Tailwind CSS |
+- 🛠️ Building **[Bob Check](https://campusbudgettracker.netlify.app/)**, a budget app for Kenyan students
+- 🎉 Building **[SHERÉ Moments](https://shere-celebretion-moments.netlify.app/)**, a digital invitation platform
 
 ---
 
-## 🧰 Tech I Work With
+## 🧰 Stack
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+**Languages:**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Frontend:**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Backend and data:**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Testing:**
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+
+**Tools and deployment:**
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ---
 
-## 🧪 What I Focus On
+## 🚀 Featured Work
 
-- Test automation with Pytest and Playwright
-- Clean, simple user interfaces
-- Clear documentation that helps others understand and use my work
+| Project | What it does | Proof it works |
+| --- | --- | --- |
+| [Bob Check](https://campusbudgettracker.netlify.app/) | Helps Kenyan students track spending and plan money until the next payment | React, FastAPI and PostgreSQL |
+| [SHERÉ Moments](https://shere-celebretion-moments.netlify.app/) | Digital invitations and celebration messages with accounts and a dashboard | 63 backend tests, 15 browser tests and a CI pipeline |
+| [Portfolio](https://sherisportfolio.netlify.app) | My personal website with projects, CV and a contact form | Built with Next.js and deployed on Netlify |
 
 ---
 
-## 📈 GitHub Stats
+## 🧪 How I Work
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GloryMungathia&show_icons=true&theme=tokyonight)
+- I test the edge cases that others miss, then write tests so they stay fixed
+- I write clear documentation, so the next person can run the project in minutes
+- I keep designs simple, clean and focused on what the user needs
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+| Activity | Top languages |
+| --- | --- |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GloryMungathia&show_icons=true&theme=tokyonight&hide_border=true) | ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GloryMungathia&layout=compact&theme=tokyonight&hide_border=true) |
+
+</div>
 
 ---
 
 ## 📫 Let's Connect
 
-- 🌐 Portfolio: [sherisportfolio.netlify.app](https://sherisportfolio.netlify.app)
-- 📩 Contact: use the contact form on my portfolio
+Looking for an internship, junior role or a project to work on? Send me a message and I'll get back to you by email.
 
----
-
-## 📍 Currently
-
-Open to entry-level software engineering and QA roles, where I can learn from experienced engineers and grow with a team.
+- 🌐 [Contact me through my portfolio](https://sherisportfolio.netlify.app)
