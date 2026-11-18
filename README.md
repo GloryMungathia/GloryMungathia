@@ -6,10 +6,10 @@
 
 ---
 
-## 🔭 Currently
+## 🔭 Recently Built
 
-- 🛠️ Building **[Bob Check](https://campusbudgettracker.netlify.app/)**, a budget app for Kenyan students
-- 🎉 Building **[SHERÉ Moments](https://shere-celebretion-moments.netlify.app/)**, a digital invitation platform
+- 🛠️ **[Bob Check](https://campusbudgettracker.netlify.app/)**, a budget app for Kenyan students
+- 🎉 **[SHERÉ Moments](https://shere-celebretion-moments.netlify.app/)**, a digital invitation platform
 
 ---
 
