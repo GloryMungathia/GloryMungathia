@@ -2,9 +2,24 @@
 
 ![Typing animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=7C3AED&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Glory+Mung%27athia;Software+Engineer+%7C+QA+Tester;I+build+full-stack+apps+and+test+them+properly;Based+in+Nairobi%2C+Kenya)
 
+<p><em>Anyone can build tech that matters. If they did it, I can do it too and keep making it better.</em></p>
+
 </div>
 
-<p align="center"><em>Anyone can build tech that matters. If they did it, I can do it too and keep making it better.</em></p>
+---
+
+## 👋 About Me
+
+Software engineer and QA tester in Nairobi. I build web and mobile products and test them properly before they ship. I start with the problem and the person who will use it, then I build it end to end, from research and design to code, tests and deployment.
+
+Open to software engineering and QA roles, and to freelance projects.
+
+---
+
+## 🔗 Socials
+
+![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=netlify&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -15,7 +30,33 @@
 
 ---
 
-## 🧰 Stack
+## 🚀 Featured Projects
+
+| Project | What it does | Built with | Links |
+| --- | --- | --- | --- |
+| **Bob Check** | Helps Kenyan students track spending and plan money until the next payment | React, FastAPI, PostgreSQL | [Live](https://campusbudgettracker.netlify.app/) · [Code](https://github.com/GloryMungathia/campus-budget-tracker) |
+| **SHERÉ Moments** | Digital invitations and celebration messages with accounts and a dashboard | React, TypeScript, FastAPI, PostgreSQL | [Live](https://shere-celebretion-moments.netlify.app/) · [Code](https://github.com/GloryMungathia/shere-celebration-moments) |
+| **Portfolio** | My personal website with projects, CV and a contact form | Next.js, Tailwind CSS | [Live](https://sherisportfolio.netlify.app) · [Code](https://github.com/GloryMungathia/sheris-portfolio) |
+
+---
+
+## 🏆 Tech Wins
+
+- Wrote 63 backend tests and 15 browser tests for SHERÉ Moments
+- Set up GitHub Actions to run the tests automatically on every change
+- Built Bob Check, a budget app with transactions, budgets and spending insights
+- Launched a portfolio with a contact form that sends messages straight to my email
+
+---
+
+## 🤝 Team Projects
+
+- HUZA
+- Pamodzi
+
+---
+
+## 🧰 Tech Stack
 
 **Languages:**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -42,37 +83,11 @@
 
 ---
 
-## 🚀 Featured Work
-
-| Project | What it does | Proof it works |
-| --- | --- | --- |
-| [Bob Check](https://campusbudgettracker.netlify.app/) | Helps Kenyan students track spending and plan money until the next payment | React, FastAPI and PostgreSQL |
-| [SHERÉ Moments](https://shere-celebretion-moments.netlify.app/) | Digital invitations and celebration messages with accounts and a dashboard | 63 backend tests, 15 browser tests and a CI pipeline |
-| [Portfolio](https://sherisportfolio.netlify.app) | My personal website with projects, CV and a contact form | Built with Next.js and deployed on Netlify |
-
----
-
-## 🏆 Tech Wins
-
-- Wrote 63 backend tests and 15 browser tests for SHERÉ Moments
-- Set up GitHub Actions to run the tests automatically on every change
-- Built Bob Check, a budget app with transactions, budgets and spending insights
-- Launched a portfolio with a contact form that sends messages straight to my email
-
----
-
 ## 🧪 How I Work
 
 - I test the edge cases that others miss, then write tests so they stay fixed
 - I write clear documentation, so the next person can run the project in minutes
 - I keep designs simple, clean and focused on what the user needs
-
----
-
-## 🤝 Team Projects
-
-- HUZA
-- Pamodzi
 
 ---
 
@@ -88,9 +103,9 @@
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let's Talk
 
-Looking for an internship, junior role or a project to work on? Reach out through any of these:
+If you're hiring, or want to build something together, reach out through any of these:
 
 - 🌐 Portfolio: [sherisportfolio.netlify.app](https://sherisportfolio.netlify.app)
 - 💻 GitHub: [GloryMungathia](https://github.com/GloryMungathia)
